@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://dmit.izihost.com/responsive01/</loc>
+    <lastmod>2014-01-25</lastmod>
+  </url>
+  <url oeid="a22c01c7-f741-42a3-8b73-d94dec611af5" oelang="DEFAULT">
+    <loc>http://dmit.izihost.com/responsive01/index.htm</loc>
+    <lastmod>2014-01-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://dmit.izihost.com/responsive01/index.htm" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://dmit.izihost.com/responsive01/index.fr.htm" />
+  </url>
+  <url oeid="a22c01c7-f741-42a3-8b73-d94dec611af5" oelang="FR">
+    <loc>http://dmit.izihost.com/responsive01/index.fr.htm</loc>
+    <lastmod>2014-01-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://dmit.izihost.com/responsive01/index.htm" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://dmit.izihost.com/responsive01/index.fr.htm" />
+  </url>
+  <url oeid="bf495c6a-4399-4279-ad58-cc22de77604e" oelang="DEFAULT">
+    <loc>http://dmit.izihost.com/responsive01/SAMPLE.htm</loc>
+    <lastmod>2014-01-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://dmit.izihost.com/responsive01/SAMPLE.htm" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://dmit.izihost.com/responsive01/SAMPLE.fr.htm" />
+  </url>
+  <url oeid="bf495c6a-4399-4279-ad58-cc22de77604e" oelang="FR">
+    <loc>http://dmit.izihost.com/responsive01/SAMPLE.fr.htm</loc>
+    <lastmod>2014-01-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://dmit.izihost.com/responsive01/SAMPLE.htm" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://dmit.izihost.com/responsive01/SAMPLE.fr.htm" />
+  </url>
+</urlset>
